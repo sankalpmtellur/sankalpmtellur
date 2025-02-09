@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpmtellur/sankalpmtellur/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpmtellur/sankalpmtellur/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sankalpmtellur/sankalpmtellur/output/github-snake.svg" />
-</picture>
 <h2 align="left">Hi 👋, I'm Sankalp M Tellur</h2>
 
 ###
@@ -43,3 +38,9 @@
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpmtellur/sankalpmtellur/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankalpmtellur/sankalpmtellur/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sankalpmtellur/sankalpmtellur/output/github-snake.svg" />
+</picture>
