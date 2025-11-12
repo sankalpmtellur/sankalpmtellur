@@ -90,19 +90,3 @@
 </div>
 
 ---
-
-## 🎯 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/sankalpmtellur/count.svg)
-
----
-
-## 🐍 Snake Eating My Contribution Graph
-
-![Snake animation](https://github.com/sankalpmtellur/sankalpmtellur/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sankalpmtellur&style=flat-square&color=blue" alt="Profile Views" />
-</div>
