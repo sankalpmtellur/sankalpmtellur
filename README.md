@@ -59,11 +59,6 @@
 
 ## 📊 Developer Metrics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sankalpmtellur&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmtellur&layout=compact&theme=transparent&title_color=38BDF8&text_color=ffffff&hide_border=true" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -78,8 +73,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpmtellur&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   
   <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=sankalpmtellur&theme=radical&no-frame=true&no-bg=true&column=6" alt="Trophies" />
 </div>
 
 ---
@@ -94,10 +87,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sankalpmtellur/sankalpmtellur/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
