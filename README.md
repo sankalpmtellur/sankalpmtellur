@@ -103,20 +103,6 @@ I'm a software developer and AI engineer with a strong interest in building reli
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalpmtellur&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmtellur&layout=compact&hide_border=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sankalpmtellur&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
-
 ## Featured Skills
 
 | Skill | What It Means In Practice |
@@ -131,8 +117,6 @@ I'm a software developer and AI engineer with a strong interest in building reli
 ---
 
 ## Featured Projects
-
-<!-- Replace the placeholders below with real repository links when ready. -->
 
 | Project | Description | Stack |
 | --- | --- | --- |
