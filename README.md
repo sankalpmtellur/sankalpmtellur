@@ -6,7 +6,7 @@
 
 I build intelligent software at the intersection of AI, automation, backend systems, and full stack engineering.
 
-📍 Bangalore, India
+📍 Vijayapura, Karnataka, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-sankalpmtellur-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/sankalpmtellur)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/<your-handle>) -->
@@ -69,26 +69,15 @@ I sit between product thinking and engineering execution. I like taking messy, r
 ![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=FF4438)
 ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
-**AI**
-<br>
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
-![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-111827?style=for-the-badge&logo=databricks&logoColor=FF3621)
-
 **Cloud & DevOps**
 <br>
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 **Tools**
 <br>
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
@@ -113,20 +102,3 @@ Replace these with your real repositories, e.g.:
 `Advanced AI Agents` · `Multi-Agent Systems` · `Model Context Protocol` · `LLMs` · `RAG` · `Distributed Systems`
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sankalpmtellur&show_icons=true&hide_border=true&bg_color=111827&title_color=ffffff&text_color=d1d5db&icon_color=60a5fa" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmtellur&layout=compact&hide_border=true&bg_color=111827&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-*"I enjoy turning complex business problems into elegant software."*
-
-</div>
