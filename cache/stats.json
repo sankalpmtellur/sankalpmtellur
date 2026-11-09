@@ -1,7 +1,11 @@
 {
   "repos": 56,
+  "contrib": 5,
   "stars": 0,
+  "commits": 633,
   "followers": 1,
-  "updated": "2026-11-09T22:17:42+00:00",
-  "note": "seeded from the public REST API; the workflow replaces this with full GraphQL figures"
+  "loc": 349981,
+  "added": 4253229,
+  "deleted": 3903248,
+  "updated": "2026-11-09T22:29:39+00:00"
 }
