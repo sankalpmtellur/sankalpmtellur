@@ -1,0 +1,7 @@
+.claude/
+.preview/
+github-readme/
+note.txt
+__pycache__/
+*.pyc
+.DS_Store

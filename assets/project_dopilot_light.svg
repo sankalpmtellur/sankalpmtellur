@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="509" height="220" viewBox="0 0 509 220"
+     font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" role="img" aria-label="DoPilot: An AI agent that drives your real browser.">
+<title>DoPilot: An AI agent that drives your real browser.</title>
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+</style>
+<rect x="0.5" y="0.5" width="501" height="205" rx="13.5" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="22" y="0" width="458" height="2" fill="#6639ba" rx="1"/>
+<rect x="22" y="24" width="52" height="52" rx="10" fill="#eae3f5" stroke="#baa6e0"/>
+<text x="48" y="57.00" font-size="20px" font-weight="bold" fill="#6639ba" text-anchor="middle">DP</text>
+<text x="90" y="44" font-size="21px" font-weight="bold" fill="#1f2328">DoPilot</text>
+<circle cx="94" cy="62" r="4" fill="#1a7f37"><animate attributeName="opacity" values="1;0.25;1" keyTimes="0;0.5;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="104" y="66" font-size="12.5px" fill="#59636e">live</text>
+<text x="480" y="66" font-size="12.5px" fill="#6639ba" text-anchor="end">dopilot-extension.vercel.app ↗</text>
+<text x="90" y="96" font-size="13.5px" fill="#1f2328">An AI agent that drives your real browser.</text>
+<text x="90" y="116" font-size="13.5px" fill="#59636e">Plain-English commands become browser actions,</text>
+<text x="90" y="136" font-size="13.5px" fill="#59636e">each step shown live, with approval asked before</text>
+<rect x="90" y="160" width="89.9" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="99" y="176.20" font-size="12px" fill="#1f2328">TypeScript</text>
+<rect x="187.94" y="160" width="75.6" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="196.94" y="176.20" font-size="12px" fill="#1f2328">AI Agent</text>
+<rect x="271.492" y="160" width="133.1" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="280.492" y="176.20" font-size="12px" fill="#1f2328">Chrome Extension</text>
+</svg>

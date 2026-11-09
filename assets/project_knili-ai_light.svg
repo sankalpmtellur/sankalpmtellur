@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="509" height="220" viewBox="0 0 509 220"
+     font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" role="img" aria-label="Knili AI (in development)">
+<title>Knili AI (in development)</title>
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+</style>
+<rect x="7.5" y="0.5" width="501" height="205" rx="13.5" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="29" y="0" width="458" height="2" fill="#0550ae" rx="1"/>
+<rect x="29" y="24" width="52" height="52" rx="10" fill="#dce6f4" stroke="#8eb0db"/>
+<text x="55" y="57.00" font-size="20px" font-weight="bold" fill="#0550ae" text-anchor="middle">KA</text>
+<text x="97" y="44" font-size="21px" font-weight="bold" fill="#1f2328">Knili AI</text>
+<circle cx="101" cy="62" r="4" fill="#b07d00"><animate attributeName="opacity" values="1;0.25;1" keyTimes="0;0.5;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="111" y="66" font-size="12.5px" fill="#59636e">in development</text>
+<text x="97" y="96" font-size="13.5px" fill="#59636e"><tspan fill="#0550ae">$</tspan> cat knili-ai/README.md</text>
+<text x="97" y="116" font-size="13.5px" fill="#afb8c1"># being built, details soon</text>
+<rect x="97" y="160" width="32.4" height="24" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="106" y="176.20" font-size="12px" fill="#1f2328">AI</text>
+</svg>

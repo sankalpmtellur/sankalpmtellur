@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="509" height="220" viewBox="0 0 509 220"
+     font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" role="img" aria-label="Recall AI (in development)">
+<title>Recall AI (in development)</title>
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+</style>
+<rect x="0.5" y="0.5" width="501" height="205" rx="13.5" fill="#161b22" stroke="#30363d"/>
+<rect x="22" y="0" width="458" height="2" fill="#f2cc60" rx="1"/>
+<rect x="22" y="24" width="52" height="52" rx="10" fill="#35342b" stroke="#796b3e"/>
+<text x="48" y="57.00" font-size="20px" font-weight="bold" fill="#f2cc60" text-anchor="middle">RA</text>
+<text x="90" y="44" font-size="21px" font-weight="bold" fill="#c9d1d9">Recall AI</text>
+<circle cx="94" cy="62" r="4" fill="#f2cc60"><animate attributeName="opacity" values="1;0.25;1" keyTimes="0;0.5;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="104" y="66" font-size="12.5px" fill="#7d8590">in development</text>
+<text x="90" y="96" font-size="13.5px" fill="#7d8590"><tspan fill="#79c0ff">$</tspan> cat recall-ai/README.md</text>
+<text x="90" y="116" font-size="13.5px" fill="#484f58"># being built, details soon</text>
+<rect x="90" y="160" width="32.4" height="24" rx="12" fill="#21262d" stroke="#30363d"/>
+<text x="99" y="176.20" font-size="12px" fill="#c9d1d9">AI</text>
+</svg>

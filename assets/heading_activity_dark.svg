@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018" height="46" viewBox="0 0 1018 46"
+     font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" role="img" aria-label="Activity">
+<title>Activity</title>
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+</style>
+<text x="4" y="28.25" font-size="15px"><tspan fill="#79c0ff">$</tspan><tspan fill="#c9d1d9"> git log </tspan><tspan fill="#b392f0" font-weight="bold">~/activity</tspan></text>
+<text x="201.84" y="28.25" font-size="15px" fill="#7d8590"># the last year, one square a day</text>
+<rect x="512.59" y="23" width="501.41" height="1" fill="#30363d"/>
+</svg>

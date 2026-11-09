@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018" height="602" viewBox="0 0 1018 602"
+     font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" role="img" aria-label="Sankalp Tellur, AI engineer and full-stack developer">
+<title>Sankalp Tellur, AI engineer and full-stack developer</title>
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+.key {fill: #b392f0;}
+.value {fill: #79c0ff;}
+.title {fill: #b392f0; font-weight: bold;}
+.rule {fill: #c9d1d9; font-weight: bold;}
+.rulefill {fill: #484f58;}
+.add {fill: #3fb950;}
+.del {fill: #f85149;}
+.cc {fill: #484f58;}
+</style>
+<defs>
+  <linearGradient id="art" gradientUnits="userSpaceOnUse" x1="22" y1="116.0"
+                  x2="414.0" y2="521.3">
+    <stop offset="0" stop-color="#d2a8ff"/>
+    <stop offset="1" stop-color="#56d4dd"/>
+  </linearGradient>
+  <clipPath id="win"><rect width="1018" height="602" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#win)">
+<rect width="1018" height="602" fill="#161b22"/>
+<rect width="1018" height="38" fill="#21262d"/>
+<rect y="38" width="1018" height="1" fill="#30363d"/>
+</g>
+<rect x="0.5" y="0.5" width="1017" height="601" rx="13.5" fill="none" stroke="#30363d"/>
+<circle cx="28" cy="20" r="6" fill="#ff5f57"/><circle cx="48" cy="20" r="6" fill="#febc2e"/><circle cx="68" cy="20" r="6" fill="#28c840"/>
+<text x="509" y="24.55" font-size="13px" fill="#7d8590" text-anchor="middle">sankalp@tellur: ~/profile</text>
+<text x="996" y="24.55" font-size="12px" fill="#7d8590" text-anchor="end">updated 2026-11-09</text>
+<text fill="url(#art)" font-size="9.21px">
+<tspan x="22" y="125.26">                                    .</tspan>
+<tspan x="22" y="137.26">                                                               +</tspan>
+<tspan x="22" y="149.26">    .</tspan>
+<tspan x="22" y="161.27"></tspan>
+<tspan x="22" y="173.27"></tspan>
+<tspan x="22" y="185.27">                .</tspan>
+<tspan x="22" y="197.27">                                  ---+</tspan>
+<tspan x="22" y="209.28">                          #=##==###==--**+++:=</tspan>
+<tspan x="22" y="221.28">                      ##%=====%=#####***--+++===::</tspan>
+<tspan x="22" y="233.28">                    =%%==%%%%%%==%####****--++===-:.</tspan>
+<tspan x="22" y="245.28">                  =%%%=+%@@@@@@@+%%###****----::=---..=====----:    .</tspan>
+<tspan x="22" y="257.28">                #=%%%%+@@@@@@@@@+++====-**+++::==---::..:---==+---+=-</tspan>
+<tspan x="22" y="269.29">               #=#%%%++@@**####@@+@%##***++++=::----::...      :-=--+=+</tspan>
+<tspan x="22" y="281.29">              *======++@@@@@@@@@@++%##**++++===:---:::....       *#+#*+</tspan>
+<tspan x="22" y="293.29">              =####%%+@@@@@@@@@@@@=##**++++====-:-:::.....      +#=%*+</tspan>
+<tspan x="22" y="305.29">             *=######==%@@@@@@@@%#==**+++====-::...........   +*==*+</tspan>
+<tspan x="22" y="317.30">          -=-*-**####==#%%%%%%###**-+--:::::----:.:........ +#+#*</tspan>
+<tspan x="22" y="329.30">       -+-=- +-*******=**##*=------+-=====----:::........*#+#+</tspan>
+<tspan x="22" y="341.30">    :=--=:   +-+***-------**+++++++=::==----::::.....+#+#*.</tspan>
+<tspan x="22" y="353.30">  :=+-=-      :---+++++-+++++++======:----::::..+*==*+....</tspan>
+<tspan x="22" y="365.31"> :=+-+-       -:==++++++:=========---:.-::+*#+#*+.........</tspan>
+<tspan x="22" y="377.31"> -*#+=#*+      -:=======::====-----+*#+=#+...............</tspan>
+<tspan x="22" y="389.31">   +*#=+=##**++++:--++++**##=+=#*++.....................</tspan>
+<tspan x="22" y="401.31">        +++*********+++-......:::::...................</tspan>
+<tspan x="22" y="413.32">                    ..::::::........................</tspan>
+<tspan x="22" y="425.32">                      ............................                   +</tspan>
+<tspan x="22" y="437.32">                          ....................</tspan>
+<tspan x="22" y="449.32">                                  ....</tspan>
+<tspan x="22" y="461.33"></tspan>
+<tspan x="22" y="473.33">                                                       .</tspan>
+<tspan x="22" y="485.33"></tspan>
+<tspan x="22" y="497.33">       .                                                    .</tspan>
+<tspan x="22" y="509.34"></tspan>
+<tspan x="22" y="521.34"></tspan>
+</text>
+<g fill="#c9d1d9" font-size="15.5px">
+<text x="440.88" y="75.50"><tspan class="title">sankalp@tellur</tspan> <tspan class="rulefill">────────────────────────────────────────────</tspan></text>
+<text x="440.88" y="95.50"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="cc">......................</tspan> <tspan class="value">Vijayapura, Karnataka, India</tspan></text>
+<text x="440.88" y="115.50"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="cc">.......................</tspan> <tspan class="value">2 years, 0 months, 4 days</tspan></text>
+<text x="440.88" y="135.50"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="cc">...............</tspan> <tspan class="value">AI Engineer, Full-Stack Developer</tspan></text>
+<text x="440.88" y="155.50"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>: <tspan class="cc">........................</tspan> <tspan class="value">Builder, aspiring founder</tspan></text>
+<text x="440.88" y="175.50"><tspan class="cc">.</tspan></text>
+<text x="440.88" y="195.50"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>: <tspan class="cc">...............</tspan> <tspan class="value">Python, TypeScript, JavaScript</tspan></text>
+<text x="440.88" y="215.50"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Web</tspan>: <tspan class="cc">......................</tspan> <tspan class="value">React, Next.js, Node.js</tspan></text>
+<text x="440.88" y="235.50"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">Data</tspan>: <tspan class="cc">.................</tspan> <tspan class="value">PostgreSQL, Supabase, Redis</tspan></text>
+<text x="440.88" y="255.50"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan><tspan class="cc">.</tspan><tspan class="key">AI</tspan>: <tspan class="cc">...................</tspan> <tspan class="value">AI Agents, LLMs, Automation</tspan></text>
+<text x="440.88" y="275.50"><tspan class="cc">.</tspan></text>
+<text x="440.88" y="295.50"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>: <tspan class="cc">....................</tspan> <tspan class="value">AI products, automation, SaaS</tspan></text>
+<text x="440.88" y="315.50"><tspan class="cc">. </tspan><tspan class="key">Building</tspan>: <tspan class="cc">.........</tspan> <tspan class="value">Knili AI, DoPilot, Recall AI, WhoOwes</tspan></text>
+<text x="440.88" y="335.50"><tspan class="cc">.</tspan></text>
+<text x="440.88" y="355.50"><tspan class="rule">Contact</tspan> <tspan class="rulefill">───────────────────────────────────────────────────</tspan></text>
+<text x="440.88" y="375.50"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>: <tspan class="cc">........................</tspan> <tspan class="value">sankalpmtellur.online</tspan></text>
+<text x="440.88" y="395.50"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="cc">..................................</tspan> <tspan class="value">in/sankalpmt</tspan></text>
+<text x="440.88" y="415.50"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>: <tspan class="cc">..........</tspan> <tspan class="value">sankalp.tellur2024@nst.rishihood.edu.in</tspan></text>
+<text x="440.88" y="435.50"><tspan class="cc">.</tspan></text>
+<text x="440.88" y="455.50"><tspan class="rule">GitHub Stats</tspan> <tspan class="rulefill">──────────────────────────────────────────────</tspan></text>
+<text x="440.88" y="475.50"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="cc">.........</tspan> <tspan class="value">56</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">--</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="cc">........</tspan> <tspan class="value">0</tspan></text>
+<text x="440.88" y="495.50"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">...............</tspan> <tspan class="value">--</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">..............</tspan> <tspan class="value">1</tspan></text>
+<text x="440.88" y="515.50"><tspan class="cc">. </tspan><tspan class="key">Contributions</tspan> (last year): <tspan class="cc">..........................</tspan> <tspan class="value">437</tspan></text>
+<text x="440.88" y="535.50"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="cc">........................</tspan> <tspan class="value">--</tspan> ( <tspan class="add">--</tspan><tspan class="add">++</tspan>, <tspan class="del">--</tspan><tspan class="del">--</tspan> )</text>
+<text x="440.88" y="575.50"><tspan class="key">sankalp@tellur</tspan><tspan class="cc"> ~ </tspan><tspan class="value">$ </tspan><tspan class="value">█<animate attributeName="opacity" values="1;0" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+</g>
+</svg>

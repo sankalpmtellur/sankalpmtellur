@@ -1,0 +1,62 @@
+# Keeps the profile's generated SVGs current.
+#
+# fetch_stats.py reads the GitHub GraphQL API into cache/ (the costly
+# lines-of-code walk is memoised per repo in cache/loc.json), then
+# build_all.py regenerates every SVG under assets/ from tools/profile.py and
+# that cache. The cache is committed back so the next run only re-walks repos
+# whose head commit moved.
+name: Update profile
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # daily, 06:00 IST
+  workflow_dispatch:
+  # Rebuild straight away when the generator or its config changes, but not
+  # on unrelated pushes (README edits), which would only add commit noise.
+  push:
+    branches: [main]
+    paths:
+      - "tools/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # the rebase below needs a real merge base
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Fetch GitHub stats
+        env:
+          # Optional STATS_TOKEN (classic PAT with read:user) adds private
+          # contributions; the built-in token covers every public figure.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python tools/fetch_stats.py
+
+      - name: Rebuild SVGs
+        run: python tools/build_all.py
+
+      # main can move while stats are fetched (a push mid-run). Every output
+      # is a deterministic build artefact, so replaying on top is always safe.
+      - name: Rebase onto anything that landed meanwhile
+        run: git pull --rebase --autostash origin main
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile stats"
+          branch: main
+          file_pattern: "assets/*.svg cache/*.json"
