@@ -35,7 +35,7 @@ text, tspan {white-space: pre;}
 <rect x="0.5" y="0.5" width="1017" height="601" rx="13.5" fill="none" stroke="#30363d"/>
 <circle cx="28" cy="20" r="6" fill="#ff5f57"/><circle cx="48" cy="20" r="6" fill="#febc2e"/><circle cx="68" cy="20" r="6" fill="#28c840"/>
 <text x="509" y="24.55" font-size="13px" fill="#7d8590" text-anchor="middle">sankalp@tellur: ~/profile</text>
-<text x="996" y="24.55" font-size="12px" fill="#7d8590" text-anchor="end">updated 2026-11-13</text>
+<text x="996" y="24.55" font-size="12px" fill="#7d8590" text-anchor="end">updated 2026-11-14</text>
 <text fill="url(#art)" font-size="9.21px">
 <tspan x="22" y="125.26">                                    .</tspan>
 <tspan x="22" y="137.26">                                                               +</tspan>
@@ -75,7 +75,7 @@ text, tspan {white-space: pre;}
 <g fill="#c9d1d9" font-size="15.5px">
 <text x="440.88" y="75.50"><tspan class="title">sankalp@tellur</tspan> <tspan class="rulefill">────────────────────────────────────────────</tspan></text>
 <text x="440.88" y="95.50"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="cc">......................</tspan> <tspan class="value">Vijayapura, Karnataka, India</tspan></text>
-<text x="440.88" y="115.50"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="cc">.......................</tspan> <tspan class="value">2 years, 0 months, 7 days</tspan></text>
+<text x="440.88" y="115.50"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>: <tspan class="cc">.......................</tspan> <tspan class="value">2 years, 0 months, 8 days</tspan></text>
 <text x="440.88" y="135.50"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="cc">...............</tspan> <tspan class="value">AI Engineer, Full-Stack Developer</tspan></text>
 <text x="440.88" y="155.50"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>: <tspan class="cc">........................</tspan> <tspan class="value">Builder, aspiring founder</tspan></text>
 <text x="440.88" y="175.50"><tspan class="cc">.</tspan></text>
@@ -94,9 +94,9 @@ text, tspan {white-space: pre;}
 <text x="440.88" y="435.50"><tspan class="cc">.</tspan></text>
 <text x="440.88" y="455.50"><tspan class="rule">GitHub Stats</tspan> <tspan class="rulefill">──────────────────────────────────────────────</tspan></text>
 <text x="440.88" y="475.50"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="cc">.........</tspan> <tspan class="value">56</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">5</tspan>} | <tspan class="key">Stars</tspan>: <tspan class="cc">.........</tspan> <tspan class="value">0</tspan></text>
-<text x="440.88" y="495.50"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">..............</tspan> <tspan class="value">638</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">..............</tspan> <tspan class="value">1</tspan></text>
-<text x="440.88" y="515.50"><tspan class="cc">. </tspan><tspan class="key">Contributions</tspan> (last year): <tspan class="cc">..........................</tspan> <tspan class="value">442</tspan></text>
-<text x="440.88" y="535.50"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="cc">.....</tspan> <tspan class="value">350,264</tspan> ( <tspan class="add">4,253,595</tspan><tspan class="add">++</tspan>, <tspan class="del">3,903,331</tspan><tspan class="del">--</tspan> )</text>
+<text x="440.88" y="495.50"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">..............</tspan> <tspan class="value">639</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">..............</tspan> <tspan class="value">1</tspan></text>
+<text x="440.88" y="515.50"><tspan class="cc">. </tspan><tspan class="key">Contributions</tspan> (last year): <tspan class="cc">..........................</tspan> <tspan class="value">443</tspan></text>
+<text x="440.88" y="535.50"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>: <tspan class="cc">.....</tspan> <tspan class="value">350,268</tspan> ( <tspan class="add">4,253,623</tspan><tspan class="add">++</tspan>, <tspan class="del">3,903,355</tspan><tspan class="del">--</tspan> )</text>
 <text x="440.88" y="575.50"><tspan class="key">sankalp@tellur</tspan><tspan class="cc"> ~ </tspan><tspan class="value">$ </tspan><tspan class="value">█<animate attributeName="opacity" values="1;0" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
 </g>
 </svg>
