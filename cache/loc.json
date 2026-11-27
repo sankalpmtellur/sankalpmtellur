@@ -194,6 +194,11 @@
     "deleted": 1232,
     "oid": "f8d2d19e5a280de68132a7f5954911e5c1fa1ae8"
   },
+  "sankalpmtellur/popfox": {
+    "added": 7359,
+    "deleted": 0,
+    "oid": "c48b32f90ba4396156c697a0652f4039d283612b"
+  },
   "sankalpmtellur/portfolio": {
     "added": 1245950,
     "deleted": 1241207,
@@ -210,9 +215,9 @@
     "oid": "9cc1aa413dd9b50b4f8ffde24c5abfb8a2ab3d3e"
   },
   "sankalpmtellur/sankalpmtellur": {
-    "added": 6153,
-    "deleted": 1372,
-    "oid": "e249aafdfbb20a706dda176b390c3c5ec1289ec3"
+    "added": 6183,
+    "deleted": 1398,
+    "oid": "1de3468854390f183c390fedbdf5255ec5de06a2"
   },
   "sankalpmtellur/shwetadrug-frontend": {
     "added": 27968,
